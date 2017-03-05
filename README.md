@@ -16,7 +16,7 @@ Im Team „impACT“ waren:
 - Gregor Ranft, UI Design
 - Christof
 - Vincent
-- 
+- sss
 - Niklas Jordan, Konzept/Prototyp
 
 ## Licence: CC BY-SA 4.0
