@@ -8,7 +8,8 @@ Diese Idee und der daraus entstandene Prototyp sind während des ersten Hackatho
 
 ## Material
 1. Pitch-Präsentation (Keynote)
-2. Prototyp (HTML/CSS)
+2. Design (Sketch.app)
+3. Prototyp (HTML/CSS)
 
 Der Prototyp ist mit InVision erstellt und kann sich auch online angeschaut werden: [impACT App Prototyp (InVision)](https://invis.io/8YAPUFVDR)
 
